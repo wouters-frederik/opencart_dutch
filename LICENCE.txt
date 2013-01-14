@@ -1,0 +1,6 @@
+This set of translations was made by me.
+If you improve it, do it on github and help everyone!
+https://github.com/wouters-frederik/opencart_dutch
+
+Thanks.
+
