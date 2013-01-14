@@ -23,8 +23,8 @@ $_['button_add_address']    = 'Adres toevoegen';
 $_['button_back']           = 'Terug';
 $_['button_continue']       = 'verder';
 $_['button_cart']           = 'In winkelwagen';
-$_['button_compare']        = 'Add to Compare';
-$_['button_wishlist']       = 'toevoegen aan Wish List';
+$_['button_compare']        = 'Vergelijken';
+$_['button_wishlist']       = 'Toevoegen aan Wish List';
 $_['button_checkout']       = 'Checkout';
 $_['button_confirm']        = 'Bevestig bestelling';
 $_['button_coupon']         = 'Apply Coupon';
@@ -43,13 +43,13 @@ $_['button_reorder']        = 'Sorteer';
 $_['button_return']         = 'Return';
 $_['button_shopping']       = 'Verder shoppen';
 $_['button_search']         = 'Zoek';
-$_['button_shipping']       = 'Apply Shipping';
-$_['button_guest']          = 'Guest Checkout';
+$_['button_shipping']       = 'verzending toepassen';
+$_['button_guest']          = 'Gast Checkout';
 $_['button_view']           = 'Bekijk';
-$_['button_voucher']        = 'Apply Voucher';
+$_['button_voucher']        = 'Voucher toepassen';
 $_['button_upload']         = 'Bestand opladen';
-$_['button_reward']         = 'Apply Points';
-$_['button_quote']          = 'Get Quotes';
+$_['button_reward']         = 'Punten toepassen';
+$_['button_quote']          = 'Quota ophalen';
 
 
 // Buttons
