@@ -13,8 +13,8 @@ $_['text_special']      = 'Specials';
 $_['text_account']      = 'Mijn Account';
 $_['text_order']        = 'Order geschiedenis';
 $_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Niewsbrief';
-$_['text_powered']      = 'gemaakt door <a href="http://www.it2servu.be">It2servu</a><br /> %s &copy; %s';
+$_['text_newsletter']   = 'Nieuwsbrief';
+$_['text_powered']      = 'Gemaakt door <a href="http://www.it2servu.be">It2servu</a><br /> %s &copy; %s';
 
 
 ?>

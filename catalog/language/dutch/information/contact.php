@@ -1,8 +1,13 @@
 <?php
+
 // Heading
 $_['heading_title']  = 'Neem contact op';
 
-// Text 
+// Text
+$_['text_location']  = 'Ons kantoor';
+$_['text_contact']   = 'Contact formulier';
+
+// Text
 $_['text_address']   = 'Adres:';
 $_['text_email']     = 'E-mail:';
 $_['text_telephone'] = 'Telefoon:';
