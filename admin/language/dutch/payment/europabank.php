@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Europabank Online payment';
+$_['heading_title']      = 'Europabank Online payment (VISA/mastercard/maestro)';
 
 // Text
 $_['text_payment']       = 'Payment';
@@ -16,6 +16,7 @@ $_['entry_ss']    = 'Server secret';
 $_['entry_proxy']  = 'Proxy url';
 $_['entry_lan']   = 'Default language';
 $_['entry_env']   = 'Europabank environment';
+$_['entry_status'] = 'Status';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify payment Europabank!';

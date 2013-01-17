@@ -27,8 +27,8 @@ $_['text_agree']                     = 'Ik heb de <a class="colorbox" href="%s" 
 $_['text_address_new']               = 'Ik wil een nieuw adres gebruiken';
 $_['text_address_existing']          = 'Ik wil een bestaand adres gebruiken';
 $_['text_shipping_method']           = 'Gelieve een verzendingsmethode te selecteren.';
-$_['text_payment_method']            = 'gelieve een betaalmethode te selecteren.';
-$_['text_comments']                  = 'geef extra opmerkingen bij uw bestelling';
+$_['text_payment_method']            = 'Gelieve een betaalmethode te selecteren.';
+$_['text_comments']                  = 'Geef extra opmerkingen bij uw bestelling';
 
 // Column
 $_['column_name']                    = 'Productnaam';
