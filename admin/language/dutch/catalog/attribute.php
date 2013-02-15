@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']          = 'Attributes';
+$_['heading_title']          = 'Attribuutn';
 
 // Text
-$_['text_success']           = 'Success: You have modified attributes!';
+$_['text_success']           = 'Attribuut aangepast!';
 
 // Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Attribuut naam';
+$_['column_Attribuut_group'] = 'Attribuut groep';
+$_['column_sort_order']      = 'Volgorde';
+$_['column_action']          = 'Actie';
 
 // Entry
-$_['entry_name']            = 'Attribute Name:';
-$_['entry_attribute_group'] = 'Attribute Group:';
-$_['entry_sort_order']      = 'Sort Order:';
+$_['entry_name']            = 'Attribuut naam:';
+$_['entry_Attribuut_group'] = 'Attribuut groep:';
+$_['entry_sort_order']      = 'Volgorde:';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify attributes!';
-$_['error_name']            = 'Attribute Name must be between 3 and 64 characters!';
-$_['error_product']         = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']      = 'U heeft geen machtigin om de attributen aan te passen!';
+$_['error_name']            = 'Attribuutnaam moet 3 tot 64 karakters bevatten!';
+$_['error_product']         = 'Dit attribuut is in gebruik voor %s producten, u kan dit niet verwijderen!';
 ?>

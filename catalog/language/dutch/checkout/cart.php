@@ -4,7 +4,7 @@
 $_['heading_title']          = 'Shopping Cart';
 
 // Text
-$_['text_success']           = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_success']           = 'U heeft <a href="%s">%s</a> aan uw <a href="%s">winkelwagen</a> toegevoegd!';
 $_['text_remove']            = 'Uw winkelwagen werd aangepast!';
 $_['text_coupon']            = 'Uw korting werd toegevoegd!';
 $_['text_voucher']           = 'Success: Your gift voucher discount has been applied!';
@@ -13,8 +13,8 @@ $_['text_shipping']          = 'Uw geschatte verzendkosten werden toegevoegd!';
 $_['text_login']             = 'Pas op: u moet <a href="%s">inloggen</a> of <a href="%s">een account maken</a> om de prijzen te zien!';
 $_['text_points']            = 'Reward Points: %s';
 $_['text_items']             = '%s item(s) - %s';
-$_['text_next']              = 'Wat wilu nu doen?';
-$_['text_next_choice']       = 'Kies als u een kortingscode heeft, punten heeft of als u de verzendingskosten wil laten berekenen.';
+$_['text_next']              = 'Wat wil U nu doen?';
+$_['text_next_choice']       = 'Kies als U een kortingscode heeft, punten heeft of als u de verzendingskosten wil laten berekenen.';
 $_['text_use_coupon']        = 'Coupon Code gebruiken';
 $_['text_use_voucher']       = 'Gift Voucher gebruken';
 $_['text_use_reward']        = 'Use Reward Points (Available %s)';

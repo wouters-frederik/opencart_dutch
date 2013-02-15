@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']     = 'Attribute Groups';
+$_['heading_title']     = 'Attribuutgroep';
 
 // Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
+$_['text_success']      = 'U heeftd e attribuutgroep aangepast!';
 
 // Column
-$_['column_name']       = 'Attribute Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Attribuut groepsnaam';
+$_['column_sort_order'] = 'Volgorde';
+$_['column_action']     = 'Actie';
 
 // Entry
-$_['entry_name']        = 'Attribute Group Name:';
-$_['entry_sort_order']  = 'Sort Order:';
+$_['entry_name']        = 'Attribuut groepsnaam:';
+$_['entry_sort_order']  = 'Volgorde:';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
