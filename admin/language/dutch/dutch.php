@@ -1,7 +1,7 @@
 <?php
 
 // Locale
-$_['code']                          = 'en';
+$_['code']                          = 'nl';
 $_['direction']                     = 'ltr';
 $_['date_format_short']             = 'd/m/Y';
 $_['date_format_long']              = 'l dS F Y';
@@ -10,43 +10,43 @@ $_['decimal_point']                 = '.';
 $_['thousand_point']                = ',';
 
 // Text
-$_['text_yes']                      = 'Yes';
-$_['text_no']                       = 'No';
+$_['text_yes']                      = 'Ja';
+$_['text_no']                       = 'Neen';
 $_['text_enabled']                  = 'Enabled';
 $_['text_disabled']                 = 'Disabled';
-$_['text_none']                     = ' --- None --- ';
-$_['text_select']                   = ' --- Please Select --- ';
-$_['text_select_all']               = 'Select All';
-$_['text_unselect_all']             = 'Unselect All';
-$_['text_all_zones']                = 'All Zones';
+$_['text_none']                     = ' --- Geen --- ';
+$_['text_select']                   = ' --- Selecteer --- ';
+$_['text_select_all']               = 'Selecteer alle';
+$_['text_unselect_all']             = 'Deselecteer alle';
+$_['text_all_zones']                = 'Alle Zones';
 $_['text_default']                  = ' <b>(Default)</b>';
-$_['text_close']                    = 'Close';
-$_['text_pagination']               = 'Showing {start} to {end} of {total} ({pages} Pages)';
-$_['text_no_results']               = 'No results!';
+$_['text_close']                    = 'Sluiten';
+$_['text_pagination']               = 'Toon {start} tot {end} van {total} ({pages} Paginas)';
+$_['text_no_results']               = 'Geen resultaten!';
 $_['text_separator']                = ' &gt; ';
-$_['text_edit']                     = 'Edit';
-$_['text_view']                     = 'View';
+$_['text_edit']                     = 'Bewerk';
+$_['text_view']                     = 'Bekijk';
 $_['text_home']                     = 'Home';
 
 // Button
-$_['button_insert']                 = 'Insert';
-$_['button_delete']                 = 'Delete';
-$_['button_save']                   = 'Save';
-$_['button_cancel']                 = 'Cancel';
+$_['button_insert']                 = 'Invoegen';
+$_['button_delete']                 = 'Verwijderen';
+$_['button_save']                   = 'Opslaan';
+$_['button_cancel']                 = 'Annuleren';
 $_['button_clear']                  = 'Clear Log';
-$_['button_close']                  = 'Close';
+$_['button_close']                  = 'Sluit';
 $_['button_filter']                 = 'Filter';
-$_['button_send']                   = 'Send';
-$_['button_edit']                   = 'Edit';
-$_['button_copy']                   = 'Copy';
-$_['button_back']                   = 'Back';
-$_['button_remove']                 = 'Remove';
+$_['button_send']                   = 'Stuur';
+$_['button_edit']                   = 'Bewerk';
+$_['button_copy']                   = 'Copieer';
+$_['button_back']                   = 'Terug';
+$_['button_remove']                 = 'Verwijderen';
 $_['button_backup']                 = 'Backup';
-$_['button_restore']                = 'Restore';
-$_['button_repair']                 = 'Repair';
+$_['button_restore']                = 'Terugzetten';
+$_['button_repair']                 = 'Repareren';
 $_['button_upload']                 = 'Upload';
-$_['button_submit']                 = 'Submit';
-$_['button_invoice']                = 'Print Invoice';
+$_['button_submit']                 = 'Verzenden';
+$_['button_invoice']                = 'Factuur afdrukken';
 $_['button_add_address']            = 'Add Address';
 $_['button_add_attribute']          = 'Add Attribute';
 $_['button_add_banner']             = 'Add Banner';
@@ -73,38 +73,38 @@ $_['button_approve']                = 'Approve';
 $_['button_reset']                  = 'Reset';
 
 // Tab
-$_['tab_address']                   = 'Address';
+$_['tab_address']                   = 'Adres';
 $_['tab_admin']                     = 'Admin';
-$_['tab_attribute']                 = 'Attribute';
-$_['tab_customer']                  = 'Customer Details';
+$_['tab_attribute']                 = 'Atribuut';
+$_['tab_customer']                  = 'Klant Details';
 $_['tab_data']                      = 'Data';
 $_['tab_design']                    = 'Design';
-$_['tab_discount']                  = 'Discount';
-$_['tab_general']                   = 'General';
-$_['tab_history']                   = 'History';
-$_['tab_fraud']                     = 'Fraud';
+$_['tab_discount']                  = 'Korting';
+$_['tab_general']                   = 'Algemeen';
+$_['tab_history']                   = 'Geschiedenis';
+$_['tab_fraud']                     = 'Fraude';
 $_['tab_ftp']                       = 'FTP';
-$_['tab_ip']                        = 'IP Addresses';
+$_['tab_ip']                        = 'IP Addressen';
 $_['tab_links']                     = 'Links';
 $_['tab_log']                       = 'Log';
-$_['tab_image']                     = 'Image';
+$_['tab_image']                     = 'Afbeelding';
 $_['tab_option']                    = 'Option';
 $_['tab_server']                    = 'Server';
-$_['tab_store']                     = 'Store';
-$_['tab_special']                   = 'Special';
+$_['tab_store']                     = 'Winkel';
+$_['tab_special']                   = 'Speciaal';
 $_['tab_local']                     = 'Local';
 $_['tab_mail']                      = 'Mail';
 $_['tab_module']                    = 'Module';
 $_['tab_order']                     = 'Order Details';
-$_['tab_payment']                   = 'Payment Details';
-$_['tab_product']                   = 'Products';
-$_['tab_return']                    = 'Return Details';
-$_['tab_reward']                    = 'Reward Points';
-$_['tab_shipping']                  = 'Shipping Details';
-$_['tab_total']                     = 'Totals';
-$_['tab_transaction']               = 'Transactions';
+$_['tab_payment']                   = 'Betalings Details';
+$_['tab_product']                   = 'Producten';
+$_['tab_return']                    = 'Teruggave Details';
+$_['tab_reward']                    = 'Punten';
+$_['tab_shipping']                  = 'Verzendingsgegevens';
+$_['tab_total']                     = 'Totalen';
+$_['tab_transaction']               = 'Transacties';
 $_['tab_voucher']                   = 'Vouchers';
-$_['tab_voucher_history']           = 'Voucher History';
+$_['tab_voucher_history']           = 'Voucher Geschiedenis';
 
 // Image Resize Type
 $_['img_resize_type_d']           = 'Resize according to default';
@@ -112,14 +112,14 @@ $_['img_resize_type_w']           = 'Resize according to width';
 $_['img_resize_type_h']           = 'Resize according to height';
 
 // Error
-$_['error_upload_1']                = 'Warning: The uploaded file exceeds the upload_max_filesize directive in php.ini!';
-$_['error_upload_2']                = 'Warning: The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form!';
-$_['error_upload_3']                = 'Warning: The uploaded file was only partially uploaded!';
-$_['error_upload_4']                = 'Warning: No file was uploaded!';
-$_['error_upload_6']                = 'Warning: Missing a temporary folder!';
-$_['error_upload_7']                = 'Warning: Failed to write file to disk!';
-$_['error_upload_8']                = 'Warning: File upload stopped by extension!';
-$_['error_upload_999']              = 'Warning: No error code available!';
+$_['error_upload_1']        = 'Opgelet: Het opgeladen bestand is te groot(php.ini)!';
+$_['error_upload_2']        = 'Opgelet: Het opgeladen bestand is te groot (html form )!';
+$_['error_upload_3']        = 'Opgelet: Het bestand was niet volledig opgeladen!';
+$_['error_upload_4']        = 'Opgelet: Er werd geen bestand opgeladen!';
+$_['error_upload_6']        = 'Opgelet: Een tijdelijke folder ontbreekt!';
+$_['error_upload_7']        = 'Opgelet: Schrijven naar schijf mislukt!';
+$_['error_upload_8']        = 'Opgelet: Upload werd gestopt!';
+$_['error_upload_999']      = 'Opgelet: Geen error code beschikbaar!';
 
 
 

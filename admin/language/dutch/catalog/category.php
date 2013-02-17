@@ -1,32 +1,32 @@
 <?php
 
 // Heading
-$_['heading_title']          = 'Category';
+$_['heading_title']          = 'Catgorie';
 
 // Text
-$_['text_success']           = 'Success: You have modified categories!';
+$_['text_success']           = 'Categorie aangepast!';
 $_['text_default']           = 'Default';
 $_['text_image_manager']     = 'Image Manager';
 $_['text_browse']            = 'Browse';
 $_['text_clear']             = 'Clear';
 
 // Column
-$_['column_name']            = 'Category Name';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Category Naam';
+$_['column_sort_order']      = 'Volgorde';
+$_['column_action']          = 'Actie';
 
 // Entry
-$_['entry_name']             = 'Category Name:';
+$_['entry_name']             = 'Categorie Naam:';
 $_['entry_meta_keyword']   = 'Meta Tag Keywords:';
-$_['entry_meta_description'] = 'Meta Tag Description:';
-$_['entry_description']      = 'Description:';
+$_['entry_meta_description'] = 'Meta Tag Beschrijving:';
+$_['entry_description']      = 'Beschrijving:';
 $_['entry_parent']           = 'Parent:';
-$_['entry_store']            = 'Stores:';
-$_['entry_keyword']          = 'SEO Keyword:<br /><span class="help">Do not use spaces instead replace spaces with - and make sure the keyword is globally unique.</span>';
-$_['entry_image']            = 'Image:';
+$_['entry_store']            = 'Winkels:';
+$_['entry_keyword']          = 'SEO Sleutelwoorden:<br /><span class="help">Do not use spaces instead replace spaces with - and make sure the keyword is globally unique.</span>';
+$_['entry_image']            = 'Afbeelding:';
 $_['entry_top']              = 'Top:<br/><span class="help">Display in the top menu bar. Only works for the top parent categories.</span>';
-$_['entry_column']           = 'Columns:<br/><span class="help">Number of columns to use for the bottom 3 categories. Only works for the top parent categories.</span>';
-$_['entry_sort_order']       = 'Sort Order:';
+$_['entry_column']           = 'Kolommen:<br/><span class="help">Number of columns to use for the bottom 3 categories. Only works for the top parent categories.</span>';
+$_['entry_sort_order']       = 'Volgorde:';
 $_['entry_status']           = 'Status:';
 $_['entry_layout']           = 'Layout Override:';
 
@@ -39,7 +39,7 @@ $_['error_name']             = 'Category Name must be between 2 and 32 character
 $_['heading_title']      = 'Categorie&euml;n';
 
 // Text
-$_['text_success']       = 'Succes: Instellingen gewijzigd!';
+$_['text_success']       = 'Instellingen gewijzigd!';
 $_['text_default']       = 'Hoofdwinkel';
 $_['text_image_manager'] = 'Image Manager';
 

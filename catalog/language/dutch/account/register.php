@@ -33,20 +33,20 @@ $_['entry_password']       = 'Paswoord:';
 $_['entry_confirm']        = 'Paswoord Bevestigen:';
 
 // Error
-$_['error_exists']         = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']          = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
-$_['error_password']       = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']        = 'Password confirmation does not match password!';
-$_['error_company_id']     = 'Company ID required!';
-$_['error_tax_id']         = 'Tax ID required!';
-$_['error_vat']            = 'VAT number is invalid!';
+$_['error_exists']         = 'Opgelet: E-Mail Adres is reeds in gebruik!';
+$_['error_firstname']      = 'Voornaam moet 1 tot 32 karakters bevatten!';
+$_['error_lastname']       = 'Achternaam moet 1 tot 32 karakters bevatten!';
+$_['error_email']          = 'E-Mail Adres Is niet bruikaar!';
+$_['error_telephone']      = 'Telefoon moet 3 tot 32 karakters bevatten!';
+$_['error_password']       = 'Paswoord moet 4 tot 20 karakters bevatten!';
+$_['error_confirm']        = 'Paswoord is niet hetzelfde!';
+$_['error_company_id']     = 'Company ID vereist!';
+$_['error_tax_id']         = 'Tax ID vereist!';
+$_['error_vat']            = 'ongeldig BTW nummer!';
 $_['error_address_1']      = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']           = 'City must be between 2 and 128 characters!';
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';
+$_['error_city']           = 'Stad moet 1 tot 128 karakters bevatten!';
+$_['error_postcode']       = 'Postcode moet 2 tot 10 karakters bevatten!';
+$_['error_country']        = 'Gelieve een land te selecteren!';
+$_['error_zone']           = 'gelieve een regio / state te selecteren!';
+$_['error_agree']          = 'Opgelet: je moet akkoord gaan met %s!';
 ?>

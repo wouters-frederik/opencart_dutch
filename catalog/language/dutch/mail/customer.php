@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services']       = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
+$_['text_subject']        = '%s - Bedankt voor u registratie';
+$_['text_welcome']        = 'Welkom en bedant voor uw registratie op %s!';
+$_['text_login']          = 'Uw account is nu aangemaakt en u kan inloggen met uw emailadres en paswoord op volgende URL:';
+$_['text_approval']       = 'Uw account moet goedgekeurd worden alvorens u kan inloggen. Eenmaal goedgekeurd kan u inloggen met uw emailadres en paswoord op volgende URL:';
+$_['text_services']       = 'Bij ht inloggen heeft u toegang tot andere diensten zoals voorbije bestellignen bekijken, facturen afdrukken en uw accountgegevens bewerken.';
 $_['text_thanks']         = 'Bedankt,';
 $_['text_new_customer']   = 'Nieuwe klant';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_website']        = 'Web Site:';
+$_['text_signup']         = 'Een nieuwe klant heeft zich ingeschreven:';
+$_['text_website']        = 'Website:';
 $_['text_customer_group'] = 'Klantengroep:';
 $_['text_firstname']      = 'Voornaam:';
 $_['text_lastname']       = 'Achternaam:';

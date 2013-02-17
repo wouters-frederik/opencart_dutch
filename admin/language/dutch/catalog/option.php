@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']       = 'Options';
+$_['heading_title']       = 'Opties';
 
 // Text
-$_['text_success']        = 'Success: You have modified options!';
-$_['text_choose']         = 'Choose';
-$_['text_select']         = 'Select';
+$_['text_success']        = 'opties werden aangepast!';
+$_['text_choose']         = 'Kies';
+$_['text_select']         = 'Select ';
 $_['text_radio']          = 'Radio';
 $_['text_checkbox']       = 'Checkbox';
 $_['text_image']          = 'Image';
@@ -21,19 +21,19 @@ $_['text_browse']         = 'Browse';
 $_['text_clear']          = 'Clear';
 
 // Column
-$_['column_name']         = 'Option Name';
-$_['column_sort_order']   = 'Sort Order';
-$_['column_action']       = 'Action';
+$_['column_name']         = 'Optie naam';
+$_['column_sort_order']   = 'Volgorde';
+$_['column_action']       = 'Actie';
 
 // Entry
-$_['entry_name']         = 'Option Name:';
+$_['entry_name']         = 'Optie Naam:';
 $_['entry_type']         = 'Type:';
-$_['entry_option_value'] = 'Option Value Name:';
+$_['entry_option_value'] = 'Optie waarde Name:';
 $_['entry_image']        = 'Image:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Volgorde:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify options!';
+$_['error_permission']   = 'Opgelet: u heeft de machtiging niet om opties aan te passen!';
 $_['error_name']         = 'Option Name must be between 1 and 128 characters!';
 $_['error_type']         = 'Warning: Option Values required!';
 $_['error_option_value'] = 'Option Value Name must be between 1 and 128 characters!';

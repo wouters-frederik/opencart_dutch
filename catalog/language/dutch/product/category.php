@@ -1,13 +1,13 @@
 <?php
 
-$_['text_refine']       = 'Refine Search';
+$_['text_refine']       = 'Verfijd zoeken';
 $_['text_product']      = 'Producten';
 $_['text_error']        = 'Categorie niet gevonden';
-$_['text_empty']        = 'There are no products to list in this category.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'merk:';
+$_['text_empty']        = 'Er zijn geen producten in deze categorie.';
+$_['text_quantity']     = 'Hoveelheid:';
+$_['text_manufacturer'] = 'Merk:';
 $_['text_model']        = 'Productcode:';
-$_['text_points']       = 'Reward Points:';
+$_['text_points']       = 'Punten:';
 $_['text_price']        = 'Prijs:';
 $_['text_tax']          = 'Zonder BTW:';
 $_['text_reviews']      = 'Based on %s reviews.';

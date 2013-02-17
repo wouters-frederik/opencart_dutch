@@ -23,32 +23,32 @@ $_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML is no
 $_['text_share']        = 'Share';
 $_['text_success']      = 'Thank you for your review. It has been submitted to the webmaster for approval.';
 $_['text_upload']       = 'Your file was successfully uploaded!';
-$_['text_wait']         = 'Please Wait!';
+$_['text_wait']         = 'Even geduld!';
 $_['text_tags']         = 'Tags:';
-$_['text_error']        = 'Product not found!';
+$_['text_error']        = 'Product niet gevonden!';
 
 // Entry
-$_['entry_name']        = 'Your Name:';
-$_['entry_review']      = 'Your Review:';
+$_['entry_name']        = 'Uw naam:';
+$_['entry_review']      = 'uw Review:';
 $_['entry_rating']      = 'Rating:';
-$_['entry_good']        = 'Good';
-$_['entry_bad']         = 'Bad';
-$_['entry_captcha']     = 'Enter the code in the box below:';
+$_['entry_good']        = 'Goed';
+$_['entry_bad']         = 'Slecht';
+$_['entry_captcha']     = 'Geef de code in:';
 
 // Tabs
-$_['tab_description']   = 'Description';
-$_['tab_attribute']     = 'Specification';
+$_['tab_description']   = 'beschrijving';
+$_['tab_attribute']     = 'Specificatie';
 $_['tab_review']        = 'Reviews (%s)';
-$_['tab_related']       = 'Related Products';
+$_['tab_related']       = 'Gerelateerde producten';
 
 // Error
-$_['error_name']        = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']        = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']      = 'Warning: Please select a review rating!';
-$_['error_captcha']     = 'Warning: Verification code does not match the image!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype']    = 'Invalid file type!';
+$_['error_name']        = 'Opgelet: Review Name must be between 3 and 25 characters!';
+$_['error_text']        = 'Opgelet: Review Text must be between 25 and 1000 characters!';
+$_['error_rating']      = 'Opgelet: Please select a review rating!';
+$_['error_captcha']     = 'Opgelet: Verification code does not match the image!';
+$_['error_upload']      = 'Upload vereist!';
+$_['error_filename']    = 'Bestandsnaamoet tussen de 3 en 64 karakters zijn!';
+$_['error_filetype']    = 'Ongeldig bestandstype!';
 
 // Text
 $_['text_enlarge']        = 'Klik om te vergroten';

@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']          = 'Products';
+$_['heading_title']          = 'Producten';
 
 // Text
-$_['text_success']           = 'Success: You have modified products!';
+$_['text_success']           = 'product aangepast!';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
-$_['text_default']           = 'Default';
+$_['text_default']           = 'Standaard';
 $_['text_image_manager']     = 'Image Manager';
 $_['text_browse']            = 'Browse';
 $_['text_clear']             = 'Clear';
 $_['text_option']            = 'Option';
 $_['text_option_value']      = 'Option Value';
 $_['text_percent']           = 'Percentage';
-$_['text_amount']            = 'Fixed Amount';
+$_['text_amount']            = 'Vast bedrag';
 
 // Column
-$_['column_name']            = 'Product Name';
+$_['column_name']            = 'Product naam';
 $_['column_model']           = 'Model';
-$_['column_image']           = 'Image';
-$_['column_price']           = 'Price';
-$_['column_quantity']        = 'Quantity';
+$_['column_image']           = 'Afbeelding';
+$_['column_price']           = 'Prijs';
+$_['column_quantity']        = 'Hoeveelheid';
 $_['column_status']          = 'Status';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Actie';
 
 // Entry
 $_['entry_name']             = 'Product Name:';

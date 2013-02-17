@@ -75,12 +75,12 @@ $_['button_coupon']         = 'Toepassen';
 $_['button_guest']          = 'Direct afrekenen';
 
 // Error
-$_['error_upload_1']        = 'Warning: The uploaded file exceeds the upload_max_filesize directive in php.ini!';
-$_['error_upload_2']        = 'Warning: The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form!';
-$_['error_upload_3']        = 'Warning: The uploaded file was only partially uploaded!';
-$_['error_upload_4']        = 'Warning: No file was uploaded!';
-$_['error_upload_6']        = 'Warning: Missing a temporary folder!';
-$_['error_upload_7']        = 'Warning: Failed to write file to disk!';
-$_['error_upload_8']        = 'Warning: File upload stopped by extension!';
-$_['error_upload_999']      = 'Warning: No error code available!';
+$_['error_upload_1']        = 'Opgelet: Het opgeladen bestand is te groot(php.ini)!';
+$_['error_upload_2']        = 'Opgelet: Het opgeladen bestand is te groot (html form )!';
+$_['error_upload_3']        = 'Opgelet: Het bestand was niet volledig opgeladen!';
+$_['error_upload_4']        = 'Opgelet: Er werd geen bestand opgeladen!';
+$_['error_upload_6']        = 'Opgelet: Een tijdelijke folder ontbreekt!';
+$_['error_upload_7']        = 'Opgelet: Schrijven naar schijf mislukt!';
+$_['error_upload_8']        = 'Opgelet: Upload werd gestopt!';
+$_['error_upload_999']      = 'Opgelet: Geen error code beschikbaar!';
 ?>
